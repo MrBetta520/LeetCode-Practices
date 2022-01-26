@@ -18,10 +18,7 @@ namespace HeightChecker
 
             for (int i = 0; i < expected.Length; i++)
             {
-                foreach(int h in heights)
-                {
-                    expected[i] = h;
-                }
+                expected[i] = heights[i];
             }
 
             Array.Sort(expected);
