@@ -19,7 +19,7 @@ answer[i] == "Fizz" if i is divisible by 3.
 answer[i] == "Buzz" if i is divisible by 5.
 answer[i] == i (as a string) if none of the above conditions are true.
 
-Reverse String
+Reverse String:
 
 Write a function that reverses a string. The input string is given as an array of characters s.
 
