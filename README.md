@@ -9,3 +9,12 @@ A school is trying to take an annual photo of all the students. The students are
 You are given an integer array heights representing the current order that the students are standing in. Each heights[i] is the height of the ith student in line (0-indexed).
 
 Return the number of indices where heights[i] != expected[i].
+
+Fizz Buzz:
+
+Given an integer n, return a string array answer (1-indexed) where:
+
+answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
+answer[i] == "Fizz" if i is divisible by 3.
+answer[i] == "Buzz" if i is divisible by 5.
+answer[i] == i (as a string) if none of the above conditions are true.
