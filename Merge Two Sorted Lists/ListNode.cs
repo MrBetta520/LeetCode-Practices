@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LinkedList
+namespace Merge_Two_Sorted_Lists
 {
     class ListNode
     {
