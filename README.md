@@ -1,6 +1,7 @@
 # LeetCode-Practices
 
 These are the some coding programs I did from LeetCode.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HeightChecker: 
 
@@ -9,6 +10,8 @@ A school is trying to take an annual photo of all the students. The students are
 You are given an integer array heights representing the current order that the students are standing in. Each heights[i] is the height of the ith student in line (0-indexed).
 
 Return the number of indices where heights[i] != expected[i].
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fizz Buzz:
 
@@ -19,17 +22,23 @@ answer[i] == "Fizz" if i is divisible by 3.
 answer[i] == "Buzz" if i is divisible by 5.
 answer[i] == i (as a string) if none of the above conditions are true.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Reverse String:
 
 Write a function that reverses a string. The input string is given as an array of characters s.
 
 You must do this by modifying the input array in-place with O(1) extra memory.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Defanging an ip address:
 
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
 
 A defanged IP address replaces every period "." with "[.]".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Merge Two Sorted Lists:
 
@@ -38,3 +47,13 @@ You are given the heads of two sorted linked lists list1 and list2.
 Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.
 
 Return the head of the merged linked list.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sqrt(x):
+
+Given a non-negative integer x, compute and return the square root of x.
+
+Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned.
+
+Note: You are not allowed to use any built-in exponent function or operator, such as pow(x, 0.5) or x ** 0.5.
