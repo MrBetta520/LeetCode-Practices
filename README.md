@@ -57,3 +57,17 @@ Given a non-negative integer x, compute and return the square root of x.
 Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned.
 
 Note: You are not allowed to use any built-in exponent function or operator, such as pow(x, 0.5) or x ** 0.5.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Reverse Words in a String:
+
+Given an input string s, reverse the order of the words.
+
+A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.
+
+Return a string of the words in reverse order concatenated by a single space.
+
+Note that s may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
