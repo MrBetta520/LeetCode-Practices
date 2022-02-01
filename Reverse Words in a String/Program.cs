@@ -32,4 +32,5 @@ namespace Reverse_Words_in_a_String
 
             return sb.ToString().Trim();
         }
+    }
 }
