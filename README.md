@@ -71,3 +71,9 @@ Return a string of the words in reverse order concatenated by a single space.
 Note that s may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Integer To Binary:
+
+Given a base-10 integer, , convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation. When working with different bases, it is common to show the base as a subscript.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
