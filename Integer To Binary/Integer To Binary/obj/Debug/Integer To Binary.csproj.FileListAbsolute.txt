@@ -1,8 +1,0 @@
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\bin\Debug\Integer To Binary.exe.config
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\bin\Debug\Integer To Binary.exe
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\bin\Debug\Integer To Binary.pdb
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\obj\Debug\Integer To Binary.csproj.AssemblyReference.cache
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\obj\Debug\Integer To Binary.csproj.SuggestedBindingRedirects.cache
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\obj\Debug\Integer To Binary.csproj.CoreCompileInputs.cache
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\obj\Debug\Integer To Binary.exe
-C:\Users\Yang Yu\Desktop\MSSA\PACD5\Practice\Integer To Binary\Integer To Binary\obj\Debug\Integer To Binary.pdb
