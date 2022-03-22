@@ -24,7 +24,7 @@ answer[i] == i (as a string) if none of the above conditions are true.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Reverse String:
+Reverse String: https://leetcode.com/problems/reverse-string/
 
 Write a function that reverses a string. The input string is given as an array of characters s.
 
@@ -32,7 +32,7 @@ You must do this by modifying the input array in-place with O(1) extra memory.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Defanging an ip address:
+Defanging an ip address: https://leetcode.com/problems/defanging-an-ip-address/
 
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
 
@@ -40,7 +40,7 @@ A defanged IP address replaces every period "." with "[.]".
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Merge Two Sorted Lists:
+Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
 
 You are given the heads of two sorted linked lists list1 and list2.
 
