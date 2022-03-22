@@ -13,7 +13,7 @@ Return the number of indices where heights[i] != expected[i].
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fizz Buzz:
+Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
 
 Given an integer n, return a string array answer (1-indexed) where:
 
