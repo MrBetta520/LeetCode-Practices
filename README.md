@@ -106,3 +106,11 @@ If the index is on the left edge of the array, then the left sum is 0 because th
 Return the leftmost pivot index. If no such index exists, return -1.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Plus One: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/
+
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+Increment the large integer by one and return the resulting array of digits.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
