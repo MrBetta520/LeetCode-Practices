@@ -3,7 +3,7 @@
 These are the some coding programs I did from LeetCode.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-HeightChecker: https://leetcode.com/problems/height-checker/
+1051. HeightChecker: https://leetcode.com/problems/height-checker/
 
 A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in non-decreasing order by height. Let this ordering be represented by the integer array expected where expected[i] is the expected height of the ith student in line.
 
@@ -13,7 +13,7 @@ Return the number of indices where heights[i] != expected[i].
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
+412. Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
 
 Given an integer n, return a string array answer (1-indexed) where:
 
@@ -24,7 +24,7 @@ answer[i] == i (as a string) if none of the above conditions are true.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Reverse String: https://leetcode.com/problems/reverse-string/
+344. Reverse String: https://leetcode.com/problems/reverse-string/
 
 Write a function that reverses a string. The input string is given as an array of characters s.
 
@@ -32,7 +32,7 @@ You must do this by modifying the input array in-place with O(1) extra memory.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Defanging an ip address: https://leetcode.com/problems/defanging-an-ip-address/
+1108. Defanging an ip address: https://leetcode.com/problems/defanging-an-ip-address/
 
 Given a valid (IPv4) IP address, return a defanged version of that IP address.
 
@@ -40,7 +40,7 @@ A defanged IP address replaces every period "." with "[.]".
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
+21. Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
 
 You are given the heads of two sorted linked lists list1 and list2.
 
@@ -50,7 +50,7 @@ Return the head of the merged linked list.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sqrt(x):
+69. Sqrt(x):
 https://leetcode.com/problems/sqrtx/
 
 Given a non-negative integer x, compute and return the square root of x.
@@ -61,7 +61,7 @@ Note: You are not allowed to use any built-in exponent function or operator, suc
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
+151. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
 
 Given an input string s, reverse the order of the words.
 
@@ -79,7 +79,7 @@ Given a base-10 integer, , convert it to binary (base-2). Then find and print th
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -95,7 +95,7 @@ Determine whether the largest element in the array is at least twice as much as 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Find Pivot Index: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/
+724. Find Pivot Index: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/
 
 Given an array of integers nums, calculate the pivot index of this array.
 
@@ -107,7 +107,7 @@ Return the leftmost pivot index. If no such index exists, return -1.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Plus One: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/
+66. Plus One: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/
 
 You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
 
