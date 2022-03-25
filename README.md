@@ -17,8 +17,6 @@ These are the some coding programs I did from LeetCode.
 
 151. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
 
-Integer To Binary:
-
 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 
 747. Largest Number At Least Twice of Others: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/
