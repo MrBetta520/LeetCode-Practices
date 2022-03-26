@@ -19,8 +19,9 @@ namespace Palindrome_Number
             }
 
             int reservedNum = 0;
+            int temp = x;
 
-            while (x > reservedNum)
+            while (temp != 0)
             {
                 reservedNum = reservedNum * 0 + x % 10;
                 x /= 10;
