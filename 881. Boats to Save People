@@ -1,0 +1,17 @@
+public int NumRescueBoats(int[] people, int limit) {
+        
+    Array.Sort(people);
+        
+    int i = 0, j = people.Length - 1;
+    int numOfBoats = 0;
+        
+    while (i <= j){
+        numOfBoats++;
+        if (people[i] + people[j] <= limit)
+        {
+            i++;
+        }
+        j--;
+    }
+    return numOfBoats;
+}
