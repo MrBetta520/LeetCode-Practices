@@ -44,3 +44,5 @@ These are the some coding programs I did from LeetCode.
 20. <1672>. Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
 
 21. <2011>. Final Value of Variable After Performing Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+
+22. <2114>. Maximum Number of Words Found in Sentences: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
