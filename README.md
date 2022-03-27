@@ -28,3 +28,5 @@ These are the some coding programs I did from LeetCode.
 67. Add Binary: https://leetcode.com/problems/add-binary/
 
 771. Jewels and Stones: https://leetcode.com/problems/jewels-and-stones/
+
+1920. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/
