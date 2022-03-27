@@ -37,5 +37,6 @@ These are the some coding programs I did from LeetCode.
 
 <283>. Move Zeroes: https://leetcode.com/problems/move-zeroes/
 
-<881>. Boats to Save People
+<881>. Boats to Save People: https://leetcode.com/problems/boats-to-save-people/
 
+<1480>. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/
