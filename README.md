@@ -42,3 +42,5 @@ These are the some coding programs I did from LeetCode.
 19. <1480>. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/
 
 20. <1672>. Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/
+
+21. <2011>. Final Value of Variable After Performing Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
