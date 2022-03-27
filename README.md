@@ -3,35 +3,37 @@
 These are the some coding programs I did from LeetCode.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1051. HeightChecker: https://leetcode.com/problems/height-checker/
+<1>. Two Sum : https://leetcode.com/problems/two-sum/
 
-412. Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
+<1051>. HeightChecker: https://leetcode.com/problems/height-checker/
 
-344. Reverse String: https://leetcode.com/problems/reverse-string/
+<412>. Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
 
-1108. Defanging an ip address: https://leetcode.com/problems/defanging-an-ip-address/
+<344>. Reverse String: https://leetcode.com/problems/reverse-string/
 
-21. Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
+<1108>. Defanging an ip address: https://leetcode.com/problems/defanging-an-ip-address/
 
-69. Sqrt(x): https://leetcode.com/problems/sqrtx/
+<21>. Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
 
-151. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
+<69>. Sqrt(x): https://leetcode.com/problems/sqrtx/
 
-125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+<151>. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
 
-747. Largest Number At Least Twice of Others: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/
+<125>. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 
-724. Find Pivot Index: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/
+<747>. Largest Number At Least Twice of Others: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1147/
 
-66. Plus One: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/
+<724>. Find Pivot Index: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1144/
 
-67. Add Binary: https://leetcode.com/problems/add-binary/
+<66>. Plus One: https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1148/
 
-771. Jewels and Stones: https://leetcode.com/problems/jewels-and-stones/
+<67>. Add Binary: https://leetcode.com/problems/add-binary/
 
-1920. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/
+<771>. Jewels and Stones: https://leetcode.com/problems/jewels-and-stones/
 
-1929. Concatenation of Array: https://leetcode.com/problems/concatenation-of-array/
-1. Two Sum : https://leetcode.com/problems/two-sum/
+<1920>. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/
+
+<1929>. Concatenation of Array: https://leetcode.com/problems/concatenation-of-array/
+
 
 
