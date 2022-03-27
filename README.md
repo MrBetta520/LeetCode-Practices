@@ -3,7 +3,7 @@
 These are the some coding programs I did from LeetCode.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<1>. Two Sum : https://leetcode.com/problems/two-sum/
+1 <1>. Two Sum : https://leetcode.com/problems/two-sum/
 
 <1051>. HeightChecker: https://leetcode.com/problems/height-checker/
 
