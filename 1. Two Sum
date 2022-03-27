@@ -1,0 +1,16 @@
+public int[] TwoSum(int[] nums, int target) {
+        
+    var indexesByVal = new Dictionary<int, int>();
+        
+    for (var i = 0; i < nums.Length; i++)
+    {
+        var diff = target - nums[i];
+            
+        if (indexesByVal.ContainsKey(diff)) 
+            return new [] {indexesByVal[diff], i};
+            
+        indexesByVal[nums[i]] = i;
+    }
+        
+    return null;
+}
