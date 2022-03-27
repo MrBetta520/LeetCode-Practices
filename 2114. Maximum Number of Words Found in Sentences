@@ -1,0 +1,10 @@
+public int MostWordsFound(string[] sentences) {
+    int[] numsOfSentences = new int[sentences.Length];
+        
+    for (int i = 0; i < sentences.Length; i++)
+    {
+        numsOfSentences[i] = sentences[i].Split(' ').Length;
+    }
+        
+    return numsOfSentences.Max();
+}
