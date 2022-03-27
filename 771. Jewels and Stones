@@ -1,0 +1,16 @@
+ public int NumJewelsInStones(string jewels, string stones) {
+        
+    Hashtable jHT = new Hashtable();
+    int matchedNum = 0;
+        
+    foreach(char jwl in jewels)
+    {
+        jHT.Add(jwl, null);
+    }
+    foreach(char stn in stones)
+    {
+        if(jHT.ContainsKey(stn))
+            matchedNum++;
+    }
+    return matchedNum;
+}
