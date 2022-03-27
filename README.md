@@ -46,3 +46,5 @@ These are the some coding programs I did from LeetCode.
 21. <2011>. Final Value of Variable After Performing Operations: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 22. <2114>. Maximum Number of Words Found in Sentences: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+
+23. <760>. Find Anagram Mappings: https://leetcode.com/problems/find-anagram-mappings/
