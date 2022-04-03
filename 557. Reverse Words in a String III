@@ -1,0 +1,16 @@
+public string ReverseWords(string s) {
+    string[] sa = s.Split(' ');
+    StringBuilder sb = new StringBuilder();
+
+    foreach(string ss in sa)
+    {
+        for(int i = ss.Length - 1; i >= 0; i--)
+        {
+            sb.Append(ss[i]);
+        }
+           
+            sb.Append(' ');
+    }
+
+    return sb.ToString().Trim();
+}
