@@ -62,3 +62,5 @@ These are the some coding programs I did from LeetCode.
 29. <1512>. Number of Good Pairs: https://leetcode.com/problems/number-of-good-pairs/
 
 30. <1431>. Kids With the Greatest Number of Candies: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+31. <2160>. Minimum Sum of Four Digit Number After Splitting Digits: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
