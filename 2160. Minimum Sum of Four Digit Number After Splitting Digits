@@ -1,0 +1,10 @@
+public int MinimumSum(int num) {
+    char[] nums = num.ToString().ToArray();
+    Array.Sort(nums);
+
+    string val1 = (nums[0] - 48).ToString() + (nums[2] - 48);
+    string val2 = (nums[1] - 48).ToString() + (nums[3] - 48);
+
+
+    return Convert.ToInt32(val1) + Convert.ToInt32(val2);
+}
