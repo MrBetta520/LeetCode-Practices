@@ -56,3 +56,5 @@ These are the some coding programs I did from LeetCode.
 26. <14>. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/
 
 27. <709>. To Lower Case: https://leetcode.com/problems/to-lower-case/
+
+28. <1470>. Shuffle the Array: https://leetcode.com/problems/shuffle-the-array/
