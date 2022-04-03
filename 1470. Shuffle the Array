@@ -1,0 +1,12 @@
+public int[] Shuffle(int[] nums, int n) {
+    int[] result = new int[nums.Length];
+        
+    int h = 0;
+    for(int i = 0; i < n; ++i)
+    {
+        result[h] = nums[i]; 
+        result[h+1] = nums[i+n]; 
+        h+=2;
+    }
+    return result;
+}
