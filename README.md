@@ -58,3 +58,5 @@ These are the some coding programs I did from LeetCode.
 27. <709>. To Lower Case: https://leetcode.com/problems/to-lower-case/
 
 28. <1470>. Shuffle the Array: https://leetcode.com/problems/shuffle-the-array/
+
+29. <1512>. Number of Good Pairs: https://leetcode.com/problems/number-of-good-pairs/
