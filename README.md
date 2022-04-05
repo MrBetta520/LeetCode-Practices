@@ -76,3 +76,5 @@ These are the some coding programs I did from LeetCode.
 36. <1165>. Single-Row Keyboard: https://leetcode.com/problems/single-row-keyboard/
 
 37. <1281>. Subtract the Product and Sum of Digits of an Integer: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+38. <1720>. Decode XORed Array: https://leetcode.com/problems/decode-xored-array/
