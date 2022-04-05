@@ -72,3 +72,5 @@ These are the some coding programs I did from LeetCode.
 34. <344>. Reverse String: https://leetcode.com/problems/reverse-string/
 
 35. <1365>. How Many Numbers Are Smaller Than the Current Number: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+36. <1165>. Single-Row Keyboard: https://leetcode.com/problems/single-row-keyboard/
