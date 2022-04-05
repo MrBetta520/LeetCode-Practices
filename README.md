@@ -70,3 +70,5 @@ These are the some coding programs I did from LeetCode.
 33. <1603>. Design Parking System: https://leetcode.com/problems/design-parking-system/
 
 34. <344>. Reverse String: https://leetcode.com/problems/reverse-string/
+
+35. <1365>. How Many Numbers Are Smaller Than the Current Number: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
