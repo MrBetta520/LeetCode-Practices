@@ -82,3 +82,5 @@ These are the some coding programs I did from LeetCode.
 39. <1313>. Decompress Run-Length Encoded List: https://leetcode.com/problems/decompress-run-length-encoded-list/
 
 40. <1528>. Shuffle String: https://leetcode.com/problems/shuffle-string/
+
+41. <412>. Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
