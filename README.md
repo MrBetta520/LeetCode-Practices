@@ -88,3 +88,5 @@ These are the some coding programs I did from LeetCode.
 42. <724>. Find Pivot Index: https://leetcode.com/problems/find-pivot-index/
 
 43. <747>. Largest Number At Least Twice of Others: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+
+44. <1342>. Number of Steps to Reduce a Number to Zero: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
