@@ -1,0 +1,26 @@
+public int DominantIndex(int[] nums) {
+    if(nums.Length == 1)
+    {
+        return 0;
+    }
+
+    bool allBigThanOthers = true;
+
+    for(int i = 0; i < nums.Length; i++)
+    {
+        allBigThanOthers = true;
+        for(int j = 0; j < nums.Length; j++)
+        {
+            if (i == j) continue;
+            if(nums[i] < nums[j] * 2)
+            {
+                allBigThanOthers = false;
+                break;
+            }
+        }
+        if(allBigThanOthers) return i;
+                
+     }
+
+     return -1;
+}
