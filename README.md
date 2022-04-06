@@ -80,3 +80,5 @@ These are the some coding programs I did from LeetCode.
 38. <1720>. Decode XORed Array: https://leetcode.com/problems/decode-xored-array/
 
 39. <1313>. Decompress Run-Length Encoded List: https://leetcode.com/problems/decompress-run-length-encoded-list/
+
+40. <1528>. Shuffle String: https://leetcode.com/problems/shuffle-string/
