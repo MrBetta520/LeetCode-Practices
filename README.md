@@ -84,3 +84,5 @@ These are the some coding programs I did from LeetCode.
 40. <1528>. Shuffle String: https://leetcode.com/problems/shuffle-string/
 
 41. <412>. Fizz Buzz: https://leetcode.com/problems/fizz-buzz/
+
+42. <724>. Find Pivot Index: https://leetcode.com/problems/find-pivot-index/
