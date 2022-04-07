@@ -96,3 +96,5 @@ These are the some coding programs I did from LeetCode.
 46. <1389>. Create Target Array in the Given Order: https://leetcode.com/problems/create-target-array-in-the-given-order/
 
 47. <151>. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
+
+48. <66>. Plus One: https://leetcode.com/problems/plus-one/
