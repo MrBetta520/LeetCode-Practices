@@ -1,0 +1,20 @@
+public int[][] FlipAndInvertImage(int[][] image) {
+    foreach(var i in image)
+    {
+        Array.Reverse(i);
+
+        for(int j = 0; j < i.Length; j++)
+        {
+            if(i[j] == 0)
+            {
+                i[j] = 1;
+            }
+            else
+            {
+                i[j] = 0;
+            }
+        }
+    }
+
+    return image;
+}
