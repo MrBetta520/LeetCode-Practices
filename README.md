@@ -100,3 +100,5 @@ These are the some coding programs I did from LeetCode.
 48. <66>. Plus One: https://leetcode.com/problems/plus-one/
 
 49. <1678>. Goal Parser Interpretation: https://leetcode.com/problems/goal-parser-interpretation/
+
+50. <237>. Delete Node in a Linked List: https://leetcode.com/problems/delete-node-in-a-linked-list/
