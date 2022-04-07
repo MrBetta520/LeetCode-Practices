@@ -1,0 +1,17 @@
+public int UniqueMorseRepresentations(string[] words) {
+        HashSet<string> ht = new HashSet<string>();
+        string[] morse = new string[] { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.." };
+
+        foreach(var word in words)
+        {
+            StringBuilder code = new StringBuilder();
+
+            foreach(var c in word)
+            {
+                code.Append(morse[c - 'a']);
+            }
+            ht.Add(code.ToString());
+        }
+
+        return ht.Count();
+}
