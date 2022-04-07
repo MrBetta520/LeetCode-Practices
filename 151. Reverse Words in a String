@@ -1,0 +1,15 @@
+public string ReverseWords(string s) {
+    string[] stringArray = s.Trim().Split(' ');
+    StringBuilder targetString = new StringBuilder();
+    
+    for(int i = stringArray.Length - 1; i >= 0; i--)
+    {
+        if(stringArray[i] != "")
+        {
+            targetString.Append(stringArray[i]).Append(" ");
+        }
+            
+    }
+        
+    return targetString.ToString().Trim();
+}
