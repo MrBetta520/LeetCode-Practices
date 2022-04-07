@@ -98,3 +98,5 @@ These are the some coding programs I did from LeetCode.
 47. <151>. Reverse Words in a String: https://leetcode.com/problems/reverse-words-in-a-string/
 
 48. <66>. Plus One: https://leetcode.com/problems/plus-one/
+
+49. <1678>. Goal Parser Interpretation: https://leetcode.com/problems/goal-parser-interpretation/
