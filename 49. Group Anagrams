@@ -1,0 +1,27 @@
+    public IList<IList<string>> GroupAnagrams(string[] strs) {
+        List<IList<string>> allAnagrams = new List<IList<string>>();
+            Dictionary<string, List<string>> map = new Dictionary<string, List<string>>();
+
+            for(int i = 0; i < strs.Length; i++)
+            {
+                string word = strs[i];
+                char[] letters = word.ToCharArray();
+                Array.Sort(letters);
+                string newWord = new string(letters);
+
+                if (map.ContainsKey(newWord))
+                {
+                    map[newWord].Add(word);
+                }
+                else
+                {
+                    map.Add(newWord, new List<string>());
+                    map[newWord].Add(strs[i]);
+                }
+            }
+            foreach(var entry in map)
+            {
+                allAnagrams.Add(entry.Value);
+            }
+            return allAnagrams;
+    }
