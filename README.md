@@ -124,3 +124,5 @@ These are the some coding programs I did from LeetCode.
 60. <415>. Add Strings: https://leetcode.com/problems/add-strings/
 
 61. Swap two values of variables
+
+62. <704>. Binary Search: https://leetcode.com/problems/binary-search/
