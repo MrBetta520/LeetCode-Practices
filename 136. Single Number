@@ -1,0 +1,10 @@
+    public int SingleNumber(int[] nums) {
+       int single = 0;
+
+            foreach(var num in nums)
+            {
+                single ^= num;
+            }
+
+            return single;
+    }
