@@ -132,3 +132,5 @@ These are the some coding programs I did from LeetCode.
 64. <75>. Sort Colors: https://leetcode.com/problems/sort-colors/
 
 65. <26>. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+66. <88>. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
