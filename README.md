@@ -136,3 +136,5 @@ These are the some coding programs I did from LeetCode.
 66. <88>. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 
 67. <153>. Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+68. <136>. Single Number: https://leetcode.com/problems/single-number/
