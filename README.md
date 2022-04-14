@@ -126,3 +126,5 @@ These are the some coding programs I did from LeetCode.
 61. Swap two values of variables
 
 62. <704>. Binary Search: https://leetcode.com/problems/binary-search/
+
+63. <204>. Count Primes: https://leetcode.com/problems/count-primes/
