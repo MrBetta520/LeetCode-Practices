@@ -134,3 +134,5 @@ These are the some coding programs I did from LeetCode.
 65. <26>. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 66. <88>. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
+
+67. <153>. Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
