@@ -130,3 +130,5 @@ These are the some coding programs I did from LeetCode.
 63. <204>. Count Primes: https://leetcode.com/problems/count-primes/
 
 64. <75>. Sort Colors: https://leetcode.com/problems/sort-colors/
+
+65. <26>. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
