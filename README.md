@@ -142,3 +142,5 @@ These are the some coding programs I did from LeetCode.
 69. <171>. Excel Sheet Column Number: https://leetcode.com/problems/excel-sheet-column-number/
 
 70. <74>. Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
+
+71. <33>. Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
