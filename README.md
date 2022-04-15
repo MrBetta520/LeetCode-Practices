@@ -146,3 +146,5 @@ These are the some coding programs I did from LeetCode.
 71. <33>. Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 72. <1773>. Count Items Matching a Rule: https://leetcode.com/problems/count-items-matching-a-rule/
+
+73. <1859>. Sorting the Sentence: https://leetcode.com/problems/sorting-the-sentence/
