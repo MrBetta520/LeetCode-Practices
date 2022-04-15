@@ -144,3 +144,5 @@ These are the some coding programs I did from LeetCode.
 70. <74>. Search a 2D Matrix: https://leetcode.com/problems/search-a-2d-matrix/
 
 71. <33>. Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+72. <1773>. Count Items Matching a Rule: https://leetcode.com/problems/count-items-matching-a-rule/
