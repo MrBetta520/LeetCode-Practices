@@ -150,3 +150,5 @@ These are the some coding programs I did from LeetCode.
 73. <1859>. Sorting the Sentence: https://leetcode.com/problems/sorting-the-sentence/
 
 74. <1486>. XOR Operation in an Array: https://leetcode.com/problems/xor-operation-in-an-array/
+
+75. <1134>. Armstrong Number: https://leetcode.com/problems/armstrong-number/
