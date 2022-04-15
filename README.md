@@ -154,3 +154,5 @@ These are the some coding programs I did from LeetCode.
 75. <1134>. Armstrong Number: https://leetcode.com/problems/armstrong-number/
 
 76. <728>. Self Dividing Numbers: https://leetcode.com/problems/self-dividing-numbers/
+
+77. <9>. Palindrome Number: https://leetcode.com/problems/palindrome-number/
