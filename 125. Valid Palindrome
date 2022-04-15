@@ -1,0 +1,17 @@
+    public bool IsPalindrome(string s) {
+        s = System.Text.RegularExpressions.Regex.Replace(s, "[^a-zA-Z0-9]", String.Empty);
+        
+        char[] c = s.ToCharArray();
+        
+        Array.Reverse(c);
+        string y = new string(c);
+        
+        if (s.ToLower().Equals(y.ToLower()))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
