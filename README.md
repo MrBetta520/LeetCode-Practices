@@ -148,3 +148,5 @@ These are the some coding programs I did from LeetCode.
 72. <1773>. Count Items Matching a Rule: https://leetcode.com/problems/count-items-matching-a-rule/
 
 73. <1859>. Sorting the Sentence: https://leetcode.com/problems/sorting-the-sentence/
+
+74. <1486>. XOR Operation in an Array: https://leetcode.com/problems/xor-operation-in-an-array/
