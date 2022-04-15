@@ -152,3 +152,5 @@ These are the some coding programs I did from LeetCode.
 74. <1486>. XOR Operation in an Array: https://leetcode.com/problems/xor-operation-in-an-array/
 
 75. <1134>. Armstrong Number: https://leetcode.com/problems/armstrong-number/
+
+76. <728>. Self Dividing Numbers: https://leetcode.com/problems/self-dividing-numbers/
