@@ -1,0 +1,26 @@
+    public string ToGoatLatin(string sentence) {
+        string[] words = sentence.Split(' ');
+        StringBuilder result = new StringBuilder();
+
+        for(int i = 0; i < words.Length; i++)
+        {
+            StringBuilder newWord = new StringBuilder();
+            string s = words[i];
+            if (s[0] == 'a' || s[0] == 'e' || s[0] == 'i' || s[0] == 'o' || s[0] == 'u' ||
+                s[0] == 'A' || s[0] == 'E' || s[0] == 'I' || s[0] == 'O' || s[0] == 'U')
+            {
+                newWord.Append(s + "ma");
+            }
+            else
+            {
+                newWord.Append(s, 1, s.Length - 1).Append(s[0]).Append("ma");
+            }
+
+            for(int j = 1; j <= i + 1; j++)
+            {
+                newWord.Append("a");
+            }
+            result.Append(newWord + " ");
+        }
+        return result.ToString().Trim();
+    }
