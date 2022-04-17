@@ -158,3 +158,5 @@ These are the some coding programs I did from LeetCode.
 77. <9>. Palindrome Number: https://leetcode.com/problems/palindrome-number/
 
 78. <125>. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+
+79. <824>. Goat Latin: https://leetcode.com/problems/goat-latin/
