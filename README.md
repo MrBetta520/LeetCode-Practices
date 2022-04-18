@@ -174,3 +174,5 @@ These are the some coding programs I did from LeetCode.
 85. <1688>. Count of Matches in Tournament: https://leetcode.com/problems/count-of-matches-in-tournament/
 
 86. <509>. Fibonacci Number: https://leetcode.com/problems/fibonacci-number/
+
+87. <1844>. Replace All Digits with Characters: https://leetcode.com/problems/replace-all-digits-with-characters/
