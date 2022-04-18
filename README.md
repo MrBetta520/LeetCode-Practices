@@ -178,3 +178,5 @@ These are the some coding programs I did from LeetCode.
 87. <1844>. Replace All Digits with Characters: https://leetcode.com/problems/replace-all-digits-with-characters/
 
 88. <2108>. Find First Palindromic String in the Array: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+
+89. <2089>. Find Target Indices After Sorting Array: https://leetcode.com/problems/find-target-indices-after-sorting-array/
