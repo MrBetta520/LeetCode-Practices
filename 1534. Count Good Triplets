@@ -1,0 +1,21 @@
+    public int CountGoodTriplets(int[] arr, int a, int b, int c) {
+        int count = 0;
+        
+        for(int i = 0; i < arr.Length; i++)
+        {
+            for(int j = i + 1; j < arr.Length; j++)
+            {
+                for(int k = j + 1; k < arr.Length; k++)
+                {
+                    int compareA = Math.Abs(arr[i] - arr[j]);
+                    int compareB = Math.Abs(arr[j] - arr[k]);
+                    int compareC = Math.Abs(arr[i] - arr[k]);
+                    if((compareA <= a && compareB <= b && compareC <= c))
+                    {
+                        count++;
+                    }
+                }
+            }
+        }
+        return count;
+    }
