@@ -194,3 +194,5 @@ These are the some coding programs I did from LeetCode.
 95. <1832>. Check if the Sentence Is Pangram: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
 96. <1913>. Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+
+97. <496>. Next Greater Element I: https://leetcode.com/problems/next-greater-element-i/
