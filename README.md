@@ -182,3 +182,5 @@ These are the some coding programs I did from LeetCode.
 89. <2089>. Find Target Indices After Sorting Array: https://leetcode.com/problems/find-target-indices-after-sorting-array/
 
 90. <349>. Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/
+
+91. <1816>. Truncate Sentence: https://leetcode.com/problems/truncate-sentence/
