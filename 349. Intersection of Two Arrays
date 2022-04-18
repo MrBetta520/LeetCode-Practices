@@ -1,0 +1,12 @@
+    public int[] Intersection(int[] nums1, int[] nums2) {
+        HashSet<int> result = new HashSet<int>();
+
+        for(int i = 0; i < nums2.Length; i++)
+        {   
+            if(nums1.Contains(nums2[i]))
+            {
+                result.Add(nums2[i]);
+            }
+        }
+        return result.ToArray();
+    }
