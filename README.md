@@ -160,3 +160,5 @@ These are the some coding programs I did from LeetCode.
 78. <125>. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 
 79. <824>. Goat Latin: https://leetcode.com/problems/goat-latin/
+
+80. <2006>. Count Number of Pairs With Absolute Difference K: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
