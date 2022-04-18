@@ -180,3 +180,5 @@ These are the some coding programs I did from LeetCode.
 88. <2108>. Find First Palindromic String in the Array: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 
 89. <2089>. Find Target Indices After Sorting Array: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+
+90. <349>. Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/
