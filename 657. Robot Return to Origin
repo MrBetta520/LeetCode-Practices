@@ -1,0 +1,17 @@
+    public bool JudgeCircle(string moves) {
+        if (moves.Length == 1)
+        {
+            return false;
+        }
+
+        int x = 0, y = 0;
+        foreach(var c in moves)
+        {
+            if(c == 'L') x++;
+            else if(c == 'R') x--;
+            else if(c == 'U') y++;
+            else if(c == 'D') y--;
+        }
+        
+        return x == 0 && y == 0;
+    }
