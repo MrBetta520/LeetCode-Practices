@@ -186,3 +186,5 @@ These are the some coding programs I did from LeetCode.
 91. <1816>. Truncate Sentence: https://leetcode.com/problems/truncate-sentence/
 
 92. <1534>. Count Good Triplets: https://leetcode.com/problems/count-good-triplets/
+
+93. <1662>. Check If Two String Arrays are Equivalent: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
