@@ -1,0 +1,8 @@
+    public bool CheckIfPangram(string sentence) {
+        HashSet<char> letters = new HashSet<char>();
+        foreach(var c in sentence)
+        {
+            letters.Add(c);
+        }
+        return letters.Count == 26;
+    }
