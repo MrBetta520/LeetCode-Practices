@@ -1,0 +1,6 @@
+    public bool ArrayStringsAreEqual(string[] word1, string[] word2) {
+        
+       if(word1 == null || word2 == null) return false;
+        
+        return String.Join("", word1) == String.Join("", word2) ? true : false;
+    }
