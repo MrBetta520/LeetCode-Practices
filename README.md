@@ -188,3 +188,5 @@ These are the some coding programs I did from LeetCode.
 92. <1534>. Count Good Triplets: https://leetcode.com/problems/count-good-triplets/
 
 93. <1662>. Check If Two String Arrays are Equivalent: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+94. <1684>. Count the Number of Consistent Strings: https://leetcode.com/problems/count-the-number-of-consistent-strings/
