@@ -184,3 +184,5 @@ These are the some coding programs I did from LeetCode.
 90. <349>. Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/
 
 91. <1816>. Truncate Sentence: https://leetcode.com/problems/truncate-sentence/
+
+92. <1534>. Count Good Triplets: https://leetcode.com/problems/count-good-triplets/
