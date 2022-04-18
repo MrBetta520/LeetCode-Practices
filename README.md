@@ -192,3 +192,5 @@ These are the some coding programs I did from LeetCode.
 94. <1684>. Count the Number of Consistent Strings: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 
 95. <1832>. Check if the Sentence Is Pangram: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+96. <1913>. Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
