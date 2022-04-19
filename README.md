@@ -198,3 +198,5 @@ These are the some coding programs I did from LeetCode.
 97. <496>. Next Greater Element I: https://leetcode.com/problems/next-greater-element-i/
 
 98. <1213>. Intersection of Three Sorted Arrays: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
+
+99. <2176>. Count Equal and Divisible Pairs in an Array: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
