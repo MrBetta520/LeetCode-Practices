@@ -1,0 +1,21 @@
+    public IList<int> ArraysIntersection(int[] arr1, int[] arr2, int[] arr3) {
+        List<int> result = new List<int>();
+
+            for (int i = 0; i < arr2.Length; i++)
+            {
+                if (arr1.Contains(arr2[i]))
+                {
+                    result.Add(arr2[i]);
+                }
+            }
+            List<int> result1 = new List<int>();
+            for (int k = 0; k < arr3.Length; k++)
+            {
+                if (result.Contains(arr3[k]))
+                {
+                    result1.Add(arr3[k]);
+                }
+            }
+
+            return result1;
+    }
