@@ -196,3 +196,5 @@ These are the some coding programs I did from LeetCode.
 96. <1913>. Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 
 97. <496>. Next Greater Element I: https://leetcode.com/problems/next-greater-element-i/
+
+98. <1213>. Intersection of Three Sorted Arrays: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
