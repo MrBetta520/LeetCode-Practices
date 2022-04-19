@@ -1,6 +1,6 @@
 # LeetCode-Practices
 
-These are the some coding programs I did from LeetCode.
+These are the some coding problems I did on LeetCode.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. <1>. Two Sum : https://leetcode.com/problems/two-sum/
