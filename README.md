@@ -202,3 +202,5 @@ These are the some coding problems I did on LeetCode.
 99. <2176>. Count Equal and Divisible Pairs in an Array: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 
 100. <1967>. Number of Strings That Appear as Substrings in Word: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
+101. <617>. Merge Two Binary Trees: https://leetcode.com/problems/merge-two-binary-trees/
