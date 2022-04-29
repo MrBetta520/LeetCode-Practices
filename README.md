@@ -204,3 +204,5 @@ These are the some coding problems I did on LeetCode.
 100. <1967>. Number of Strings That Appear as Substrings in Word: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
 101. <617>. Merge Two Binary Trees: https://leetcode.com/problems/merge-two-binary-trees/
+
+102. <144>. Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/
