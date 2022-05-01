@@ -206,3 +206,5 @@ These are the some coding problems I did on LeetCode.
 101. <617>. Merge Two Binary Trees: https://leetcode.com/problems/merge-two-binary-trees/
 
 102. <144>. Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+103. <1086>. High Five: https://leetcode.com/problems/high-five/
