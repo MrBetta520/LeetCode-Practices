@@ -1,0 +1,35 @@
+    public string[] FindWords(string[] words) {
+            string row1 = "qwertyuiopQWERTYUIOP";
+            string row2 = "asdfghjklASDFGHJKL";
+            string row3 = "zxcvbnmZXCVBNM";
+            List<string> newWords = new List<string>();
+
+            foreach (string word in words)
+            {
+                int row1Count = 0;
+                int row2Count = 0;
+                int row3Count = 0;
+
+                foreach (char letter in word)
+                {
+                    if (row1.Contains(letter))
+                    {
+                        row1Count++;
+                    }
+                    else if(row2.Contains(letter))
+                    {
+                        row2Count++;
+                    }
+                    else if(row3.Contains(letter))
+                    {
+                        row3Count++;
+                    }
+                }
+                if((row1Count == word.Length) || (row2Count == word.Length) || (row3Count == word.Length))
+                {
+                    newWords.Add(word);
+                }
+            }
+
+            return newWords.ToArray();
+    }
