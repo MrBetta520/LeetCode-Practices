@@ -1,0 +1,27 @@
+    public int CountGoodRectangles(int[][] rectangles) {
+        
+        List<int> sides = new List<int>();
+        
+        for(int i = 0; i < rectangles.Length; i++)
+        {
+            // if(rectangles[i][0] > rectangles[i][1])
+            // {
+            //     sides.Add(rectangles[i][1]);
+            // }
+            // else
+            // {
+            //     sides.Add(rectangles[i][0]);
+            // }
+            int small = rectangles[i].Min();
+            sides.Add(small);
+        }
+        
+        int maxLen = sides.Max();
+        int count = 0;
+        foreach(int side in sides)
+        {
+            if(side == maxLen)
+            count++;
+        }
+        return count;
+    }
