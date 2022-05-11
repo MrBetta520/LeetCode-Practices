@@ -1,0 +1,26 @@
+    public int DiagonalSum(int[][] mat) {
+        if(mat.Length == 1)
+        {
+            return mat[0][0];
+        }
+     
+        int result = 0;
+        int left = 0;
+        int right = mat.Length - 1;
+
+        while(left <= mat.Length - 1 && right >=0)
+        {
+            int first = mat[left][left];
+            int second = mat[right][left];
+            result += first + second;
+            left++;
+            right--;
+        }
+
+        if(mat.Length % 2 != 0)
+        {
+            result -= mat[mat.Length / 2][mat.Length / 2];
+        }
+
+        return result;
+    }
