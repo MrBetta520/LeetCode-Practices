@@ -212,3 +212,5 @@ These are the some coding problems I did on LeetCode.
 104. <929>. Unique Email Addresses: https://leetcode.com/problems/unique-email-addresses/
 
 105. <500>. Keyboard Row: https://leetcode.com/problems/keyboard-row/
+
+106. <1572>. Matrix Diagonal Sum: https://leetcode.com/problems/matrix-diagonal-sum/
