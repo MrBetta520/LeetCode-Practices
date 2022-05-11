@@ -214,3 +214,5 @@ These are the some coding problems I did on LeetCode.
 105. <500>. Keyboard Row: https://leetcode.com/problems/keyboard-row/
 
 106. <1572>. Matrix Diagonal Sum: https://leetcode.com/problems/matrix-diagonal-sum/
+
+107. <1725>. Number Of Rectangles That Can Form The Largest Square: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
