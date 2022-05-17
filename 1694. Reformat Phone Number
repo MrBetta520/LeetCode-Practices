@@ -1,0 +1,10 @@
+    public string ReformatNumber(string number) 
+    {
+        return Reformat(number.Replace(" ", "").Replace("-", ""));
+    }
+    private string Reformat(string s)
+    {
+        if(s.Length <= 3) return s;
+        else if(s.Length == 4) return s.Insert(2, "-");
+        return $"{s.Substring(0, 3)}-{Reformat(s.Substring(3, s.Length - 3))}";
+    }
