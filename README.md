@@ -224,3 +224,5 @@ These are the some coding problems I did on LeetCode.
 110. <266>. Palindrome Permutation: https://leetcode.com/problems/palindrome-permutation/
 
 111. <94>. Binary Tree Inorder Traversal: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+112. <226>. Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/
