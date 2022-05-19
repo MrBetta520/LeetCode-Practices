@@ -1,0 +1,70 @@
+    public int CountPoints(string rings) {
+        
+        int count = 0;
+        
+        HashSet<int> hs = new HashSet<int>();
+            for(int i = 1; i < rings.Length; i+=2)
+            {
+                hs.Add(Convert.ToInt32(rings[i]));
+            }
+
+            foreach(var num in hs)
+            {
+                StringBuilder sb = new StringBuilder();
+
+                for (int i = 1; i < rings.Length; i += 2)
+                {
+                    if(Convert.ToInt32(rings[i]) == num)
+                    {
+                        sb.Append(rings[i-1].ToString());
+                    }
+                }
+
+                if(sb.ToString().Contains('B') && sb.ToString().Contains('R') && sb.ToString().Contains('G'))
+                {
+                    count++;
+                }
+            }
+        return count;
+    }
+    
+    
+    
+    OR
+    
+        public static int CountPoints(string rings)
+        {
+
+            int count = 0;
+
+            for (int i = 0; i < 10; i++)
+            {
+                bool red = false;
+                bool green = false;
+                bool blue = false;
+                for (int j = 1; j < rings.Length; j += 2)
+                {
+                    if (rings[j] - '0' == i)
+                    {
+                        if (rings[j - 1] == 'R')
+                        {
+                            red = true;
+                        }
+                        else if (rings[j - 1] == 'B')
+                        {
+                            blue = true;
+                        }
+                        else if (rings[j - 1] == 'G')
+                        {
+                            green = true;
+                        }
+                    }
+
+                }
+                if (red == true && blue == true && green == true)
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
