@@ -15,3 +15,20 @@ public class Solution {
         return result;
     }
 }
+
+
+
+
+OR
+
+
+    public int AddDigits(int num) {
+        if(num <= 9)
+            return num;
+        
+        var mod = num % 9;
+        
+        if(mod != 0)
+            return mod;
+        else return 9;
+    }
