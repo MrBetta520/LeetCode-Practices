@@ -230,3 +230,5 @@ These are the some coding problems I did on LeetCode.
 113. <461>. Hamming Distance: https://leetcode.com/problems/hamming-distance/
 
 114. <700>. Search in a Binary Search Tree: https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+115. <1021>. Remove Outermost Parentheses: https://leetcode.com/problems/remove-outermost-parentheses/
