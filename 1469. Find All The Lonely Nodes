@@ -1,0 +1,38 @@
+    public IList<int> GetLonelyNodes(TreeNode root) {
+        List<int> result = new List<int>();
+        
+        return Helper(root, result);
+    }
+    
+    public static List<int> Helper(TreeNode root, List<int> result)
+    {
+        if(root == null)
+        {
+            return result;
+        }
+        
+        if(root.left != null)
+        {
+            Helper(root.left, result);
+        }
+        if(root.right != null)
+        {
+            Helper(root.right, result);
+        }
+        
+        if(root.left == null)
+        {
+            if(root.right != null)
+            {
+                result.Add(root.right.val);
+            }
+        }
+        else
+        {
+            if(root.left == null)
+            {
+                result.Add(root.left.val);
+            }
+        }
+        return result;
+    }
