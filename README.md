@@ -240,3 +240,5 @@ These are the some coding problems I did on LeetCode.
 118. <942>. DI String Match: https://leetcode.com/problems/di-string-match/
 
 119. <118>. Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/
+
+120. <1323>. Maximum 69 Number: https://leetcode.com/problems/maximum-69-number/
