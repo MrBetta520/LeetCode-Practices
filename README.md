@@ -238,3 +238,5 @@ These are the some coding problems I did on LeetCode.
 117. <1469>. Find All The Lonely Nodes: https://leetcode.com/problems/find-all-the-lonely-nodes/
 
 118. <942>. DI String Match: https://leetcode.com/problems/di-string-match/
+
+119. <118>. Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/
