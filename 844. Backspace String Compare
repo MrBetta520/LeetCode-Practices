@@ -1,0 +1,43 @@
+    public bool BackspaceCompare(string s, string t) {
+        string newS = GetNewString(s);
+        string newT = GetNewString(t);
+        
+        if(newS.Length != newT.Length)
+        {
+            return false;
+        }
+        else
+        {
+            for(int i = 0; i < newS.Length; i++)
+            {
+                if(newS[i] != newT[i])
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    public static string GetNewString(string s)
+    {
+        Stack<char> chars = new Stack<char>();
+        
+        foreach(char c in s)
+        {
+            if(c != '#')
+            {
+                chars.Push(c);
+            }
+            else if(chars.Count != 0)
+            {
+                chars.Pop();
+            }
+        }
+        StringBuilder sb = new StringBuilder();
+        
+        foreach(char letter in chars)
+        {
+            sb.Append(letter.ToString());
+        }
+        return sb.ToString();
+    }
