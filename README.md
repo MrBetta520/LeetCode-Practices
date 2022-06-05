@@ -250,3 +250,5 @@ These are the some coding problems I did on LeetCode.
 123. <121>. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 124. <541>. Reverse String II: https://leetcode.com/problems/reverse-string-ii/
+
+125. <191>. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/
