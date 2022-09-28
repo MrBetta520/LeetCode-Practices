@@ -1,0 +1,16 @@
+    public int FindDuplicate(int[] nums) {
+        HashSet<int> hs = new HashSet<int>();
+        int result = 0;
+        foreach (int n in nums)
+        {
+            if(hs.Contains(n))
+            {
+                result = n;
+            }
+            else
+            {
+                hs.Add(n);
+            }
+        }
+        return result;
+    }
