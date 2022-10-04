@@ -252,3 +252,5 @@ These are the some coding problems I did on LeetCode.
 124. <541>. Reverse String II: https://leetcode.com/problems/reverse-string-ii/
 
 125. <191>. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/
+
+126. <1309>. Decrypt String from Alphabet to Integer Mapping
