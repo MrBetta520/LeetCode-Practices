@@ -1,0 +1,24 @@
+public bool HalvesAreAlike(string s) {
+        int halfIndex = s.Length / 2;
+        string a = s.Substring(0, halfIndex);
+        string b = s.Substring(halfIndex, halfIndex);
+        
+        
+        int count1 = 0;
+        int count2 = 0;
+        char[] c = new char[] { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+            for (int j = 0; j < halfIndex; j++)
+            {
+                if (c.Contains(a[j]))
+                {
+                    count1++;
+                }
+                if(c.Contains(b[j]))
+                {
+                    count2++;
+                }
+            }
+            return count1 == count2;
+            
+        
+    }
