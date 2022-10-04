@@ -257,4 +257,8 @@ These are the some coding problems I did on LeetCode.
 
 127. <1464>. Maximum Product of Two Elements in an Array: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 
+128. <1827>. Minimum Operations to Make the Array Increasing: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+
+
+
 
