@@ -261,5 +261,8 @@ These are the some coding problems I did on LeetCode.
 
 129. <287>. Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/
 
+130. <48>. Rotate Image: https://leetcode.com/problems/rotate-image/
+
+
 
 
