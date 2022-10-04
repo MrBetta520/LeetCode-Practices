@@ -1,0 +1,60 @@
+    public string FreqAlphabets(string s) {
+        Hashtable ht = new Hashtable();
+        ht.Add('a', "1");
+        ht.Add('b', "2");
+        ht.Add('c', "3");
+        ht.Add('d', "4");
+        ht.Add('e', "5");
+        ht.Add('f', "6");
+        ht.Add('g', "7");
+        ht.Add('h', "8");
+        ht.Add('i', "9");
+        ht.Add('j', "10#");
+        ht.Add('k', "11#");
+        ht.Add('l', "12#");
+        ht.Add('m', "13#");
+        ht.Add('n', "14#");
+        ht.Add('o', "15#");
+        ht.Add('p', "16#");
+        ht.Add('q', "17#");
+        ht.Add('r', "18#");
+        ht.Add('s', "19#");
+        ht.Add('t', "20#");
+        ht.Add('u', "21#");
+        ht.Add('v', "22#");
+        ht.Add('w', "23#");
+        ht.Add('x', "24#");
+        ht.Add('y', "25#");
+        ht.Add('z', "26#");
+        
+        int sIndex = s.Length - 1;
+        
+        List<string> l = new List<string>();
+        while(sIndex >= 0)
+        {
+            if(s[sIndex] == '#')
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.Append(s[sIndex-2]).Append(s[sIndex-1]).Append(s[sIndex]);
+                l.Add(sb.ToString());
+                sIndex -= 3;
+            }
+            else
+            {
+                l.Add(s[sIndex].ToString());
+                sIndex -= 1;
+            }
+        }
+        StringBuilder result = new StringBuilder();
+        for(int i = l.Count - 1; i >= 0; i--)
+        {
+            foreach(DictionaryEntry d in ht)
+            {
+                if(l[i] == d.Value.ToString())
+                {
+                    result.Append(d.Key);
+                }
+            }
+        }
+        return result.ToString();
+    }
