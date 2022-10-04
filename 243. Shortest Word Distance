@@ -1,0 +1,29 @@
+public int ShortestDistance(string[] wordsDict, string word1, string word2) {
+        List<int> word1Indexs = new List<int>();
+        List<int> word2Indexs = new List<int>();
+        
+        for(int i = 0; i < wordsDict.Length; i++)
+        {
+            if(wordsDict[i] == word1)
+            {
+                word1Indexs.Add(i);
+            }
+            else if(wordsDict[i] == word2)
+            {
+                word2Indexs.Add(i);
+            }
+        }
+        
+        List<int> results = new List<int>();
+        for(int i = 0; i < word1Indexs.Count; i++)
+        {
+            for(int j = 0; j < word2Indexs.Count; j++)
+            {
+                results.Add(Math.Abs(word1Indexs[i] - word2Indexs[j]));
+            }
+        }
+        
+        results.Sort();
+        return results[0];
+        
+    }
