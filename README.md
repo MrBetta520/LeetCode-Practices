@@ -253,4 +253,8 @@ These are the some coding problems I did on LeetCode.
 
 125. <191>. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/
 
-126. <1309>. Decrypt String from Alphabet to Integer Mapping
+126. <1309>. Decrypt String from Alphabet to Integer Mapping: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+
+127. <1464>. Maximum Product of Two Elements in an Array: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+
+
