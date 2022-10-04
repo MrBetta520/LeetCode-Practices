@@ -259,6 +259,7 @@ These are the some coding problems I did on LeetCode.
 
 128. <1827>. Minimum Operations to Make the Array Increasing: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 
+129. <287>. Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/
 
 
 
