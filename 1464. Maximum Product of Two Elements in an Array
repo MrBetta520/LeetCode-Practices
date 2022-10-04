@@ -1,0 +1,5 @@
+    public int MaxProduct(int[] nums) {
+        Array.Sort(nums);
+        int length = nums.Length;
+        return (nums[length - 1] - 1) * (nums[length - 2] - 1);
+    }
