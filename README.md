@@ -272,3 +272,5 @@ These are the some coding problems I did on LeetCode.
 134. <1265>. Print Immutable Linked List in Reverse: https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 
 135. <2000>. Reverse Prefix of Word: https://leetcode.com/problems/reverse-prefix-of-word/
+
+136. <169>. Majority Element: https://leetcode.com/problems/majority-element/
