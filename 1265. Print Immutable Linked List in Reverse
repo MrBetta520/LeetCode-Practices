@@ -1,0 +1,7 @@
+    public void PrintLinkedListInReverse(ImmutableListNode head) {
+        if(head==null)
+            return;
+        
+        PrintLinkedListInReverse(head.GetNext());
+        head.PrintValue();
+    }
