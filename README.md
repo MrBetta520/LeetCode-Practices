@@ -274,3 +274,5 @@ These are the some coding problems I did on LeetCode.
 135. <2000>. Reverse Prefix of Word: https://leetcode.com/problems/reverse-prefix-of-word/
 
 136. <169>. Majority Element: https://leetcode.com/problems/majority-element/
+
+137. <34>. Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
