@@ -268,3 +268,7 @@ These are the some coding problems I did on LeetCode.
 132. <243>. Shortest Word Distance: https://leetcode.com/problems/shortest-word-distance/
 
 133. <1704>. Determine if String Halves Are Alike: https://leetcode.com/problems/determine-if-string-halves-are-alike/
+
+134. <1265>. Print Immutable Linked List in Reverse: https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+
+
