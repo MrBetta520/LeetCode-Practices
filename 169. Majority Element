@@ -1,0 +1,39 @@
+public int MajorityElement(int[] nums) {
+        Hashtable ht = new Hashtable();
+        HashSet<int> hs = new HashSet<int>();
+        
+        foreach(int num in nums)
+        {
+            hs.Add(num);
+        }
+        
+        foreach(int num in hs)
+        {
+            int count = 0;
+            foreach(int number in nums)
+            {
+                if(num == number)
+                {
+                    count++;
+                }
+            }
+            ht.Add(num, count);
+        }
+        
+        int theValue = 0;
+            foreach (DictionaryEntry de in ht)
+            {
+                if ((int)de.Value > theValue)
+                {
+                    theValue = (int)de.Value;
+                }
+            }
+            foreach(DictionaryEntry de in ht)
+            {
+                if((int)de.Value == theValue)
+                {
+                    return (int)de.Key;
+                }
+            }
+            return 0;
+    }
