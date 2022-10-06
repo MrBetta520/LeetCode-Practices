@@ -1,0 +1,53 @@
+public string ValidIPAddress(string queryIP) {
+        string result = "";
+        if(queryIP.Contains('.'))
+        {
+            string[] strings = queryIP.Split('.');
+            if(strings.Length != 4)
+            {
+                return "Neither";
+            }
+            for(int i = 0; i < strings.Length; i++)
+            {
+                string s = strings[i];
+                if (s == "")
+                    return "Neither";
+                if( s.Length > 1 && s[0] == '0')
+                    return "Neither";
+                if(s.Length > 3)
+                    return "Neither";
+                
+                foreach(char c in s)
+                {
+                    if(!Char.IsDigit(c))
+                        return "Neither";
+                }
+                if(Convert.ToInt64(s) > 255)
+                    return "Neither";
+            }
+            return "IPv4";
+        }
+        else if(queryIP.Contains(':'))
+        {
+            string[] strings = queryIP.Split(':');
+            if(strings.Length != 8)
+            {
+                return "Neither";
+            }
+            foreach(string s in strings)
+            {
+                if(s.Length > 4 || s.Length < 1)
+                    return "Neither";
+                foreach(char c in s)
+                {
+                    if(!Char.IsLetterOrDigit(c) || (Char.IsLetter(c) && c != 'a' && c != 'b' && c != 'c' && c != 'd' && c != 'e' && c != 'f' && c != 'A' && c != 'B' && c != 'C' && c != 'D' && c != 'E' && c != 'F'))
+                    {
+                        return "Neither";
+                    }
+                }
+            }
+            return "IPv6";
+        }
+        
+        return "Neither";
+    }
