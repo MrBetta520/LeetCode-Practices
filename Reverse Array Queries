@@ -1,0 +1,22 @@
+public static List<int> ReverseArrayQueries(List<int> arr, List<List<int>> operations)
+        {
+
+            for(int i = 0; i < operations.Count; i++)
+            {
+                List<int> operation = operations[i];
+                int left = operation[0];
+                int right = operation[1];
+
+                while(left < right)
+                {
+                    int temp = arr[left];
+                    arr[left] = arr[right];
+                    arr[right] = temp;
+
+                    left++;
+                    right--;
+                }
+            }
+
+            return arr;
+        }
