@@ -14,3 +14,20 @@
     }
     return matchedNum;
 }
+
+
+// Kotlin
+fun numJewelsInStones(jewels: String, stones: String): Int {
+    var count = 0
+    for(i in jewels)
+    {
+        for(j in stones)
+        {
+            if(i == j)
+            {
+                count++
+            }
+        }
+    }
+    return count
+}
